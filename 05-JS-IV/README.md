@@ -273,7 +273,7 @@ var obj = {
   }
 }
 ```
-
+0
 De esta forma, `that` (puede tener cualquier nombre) va a apuntar al objeto `obj` (`this` apuntaba a ese objeto cuando hicimos la asignación). Ahora si, podemos usar `that` en vez de `this` y estar seguros qué es lo que va a tener adentro.
 
 ## Objetos en Javascript
